@@ -1,4 +1,4 @@
-from example.example.settings import *
+from Tax_duitama.tax_duitama.settings import *
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "assets"),
